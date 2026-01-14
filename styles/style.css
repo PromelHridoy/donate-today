@@ -209,10 +209,11 @@ hr{
 .form-email{
     display: flex;
    max-width: 668px;
+   margin: 0 auto;
 }
 
 .updates-email{
-    max-width: 505px;
+    width: 505px;
     background-color: rgba(217, 217, 217, 1);
     border: none;
     border-radius: 5px 0 0 5px;
